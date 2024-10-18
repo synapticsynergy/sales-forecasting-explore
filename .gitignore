@@ -164,3 +164,7 @@ cython_debug/
 
 # Output
 _out/
+
+# datasets
+datasets/*
+!datasets/.gitkeep
